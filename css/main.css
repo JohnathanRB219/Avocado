@@ -1,0 +1,75 @@
+body{
+	margin:0 ;
+	font-family: 'Indie Flower', cursive;
+}
+/** navigation **/
+.nav{
+	background-color: #FE926B;
+	padding: 15px;
+
+}
+/** inside nav class **/
+li{
+	display: inline-block;
+}
+a{
+	padding: 50px;
+	text-decoration: none;
+	color: white;
+	font-size: 15px;
+}
+.leftm{
+	margin-left: 15%;
+}
+.logo{
+	float: left;
+}
+/** searchbox **/
+.searchBox{
+	background-color: #F8F2D2;
+	float: right;
+	padding: 5px 30px 15px 15px;
+	border: none;
+}
+input{
+	padding: 15px;
+}
+
+
+/** middle class **/
+.middle{
+	background-color: #F8F2D2;
+}
+img{
+	margin-top: 11%;
+}
+
+p{
+	width: 27%;
+	float: right;
+	padding-right: 74px;
+	margin-top: 10%;
+	font-size: 32px;
+}
+/** buttons middle section **/
+.buttons{
+	text-align: center;
+	margin-left: 20%;
+}
+button{
+	padding: 15px 30px;
+	color: white;
+	border: 0;
+	margin: 15px;
+}
+/** bottom of the page **/
+footer{
+	background-color: #89B993;
+	text-align: center;
+}
+i{
+	margin: 15px;
+	color: white;
+	font-size: 25px;
+	margin-bottom: 50px;
+}
